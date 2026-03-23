@@ -50,9 +50,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <em>This profile was created to share my learning journey, academic work, and software development experience.</em>
-</p>
