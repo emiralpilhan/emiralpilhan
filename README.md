@@ -31,15 +31,6 @@
 
 ---
 
-## What I’m Currently Learning
-
-- Machine Learning and Deep Learning fundamentals
-- Building better project structures
-- Sustainable software development practices
-- Designing applications for real-world problems
-
----
-
 ## Contact
 
 <p align="left">
